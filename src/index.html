@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Modele-Jouet Epidémie</title>
+    </head>
+    <body>
+        <h1>Modèle-jouet Epidemie en France</h1>
+        <form>
+            <label for="nb-contacts-quotidiens">
+                Nombre de contacts quotidiens:
+                <input id="nb-contacts-quotidiens" name="nb-contacts-quotidiens" type="number" min="0" max="200" step="10" value="50">
+            </label>
+
+            <label for="probabilite-transmission">
+                Probabilité de transmission:
+                <input id="probabilite-transmission" name="probabilite-transmission" type="number" min="0" max="4" step="0.1" value="0.5">%
+            </label>
+
+            <button type="submit">Mettre à jour</button>
+        </form>
+
+        <canvas id="chart"></canvas>
+    </body>
+</html>
