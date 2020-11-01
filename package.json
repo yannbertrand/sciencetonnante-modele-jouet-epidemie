@@ -10,7 +10,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "chart.js": "3.0.0-alpha",
+    "chart.js": "3.0.0-alpha.2",
     "html-webpack-plugin": "4.5.0",
     "math-expression-evaluator": "1.2.22"
   },
