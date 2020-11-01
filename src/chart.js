@@ -34,6 +34,11 @@ const createChart = (ctx, { donneesMalades, donneesMorts, donneesRemis, donneesS
     },
     options: {
       responsive: true,
+      tooltips: {
+        callbacks: {
+          title: item => `Jour ${item[0].label}`
+        },
+      },
     }
   })
 }
