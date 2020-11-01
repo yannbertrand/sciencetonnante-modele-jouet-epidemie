@@ -11,6 +11,10 @@
 
 **Voir [l'article de David Louapre](https://sciencetonnante.wordpress.com/2020/03/12/epidemie-nuage-radioactif-et-distanciation-sociale/) (sciencetonnante) qui a lancé l'idée.**
 
+Le projet a depuis été partagé :
+- [dans un billet de blog de David](https://scienceetonnante.com/2020/03/12/epidemie-nuage-radioactif-et-distanciation-sociale/)
+- [dans une vidéo de DirtyBiology](https://youtu.be/bM7AOBxqjnE?t=726)
+
 ## Dev
 ### 🏗 Installation
 
