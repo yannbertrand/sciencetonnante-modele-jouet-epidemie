@@ -2063,10 +2063,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-math-expression-evaluator@1.3.3:
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/math-expression-evaluator/-/math-expression-evaluator-1.3.3.tgz#8b61badc2aadffb166c3847707057ca955c1684f"
-  integrity sha512-geKTlqoxnjqHoWqB71h0kchWIC23a3yfwwbZu4E2amjvGLF+fTjCCwBQOHkE0/oHc6KdnSVmMt3QB82KaPmKEA==
+math-expression-evaluator@1.3.6:
+  version "1.3.6"
+  resolved "https://registry.yarnpkg.com/math-expression-evaluator/-/math-expression-evaluator-1.3.6.tgz#fb8c447110093dd5f32e7aec877dd247e3c98eb1"
+  integrity sha512-gbzsZEUgefao+OqOUOr03GlpjkdOySxVNHQDuiUZXPbLHgDZqiMtOgDSxuzBEtyt9BDXWS503a16bAmlJW/oFA==
 
 media-typer@0.3.0:
   version "0.3.0"
