@@ -585,10 +585,10 @@ chalk@^2.4.2:
     escape-string-regexp "^1.0.5"
     supports-color "^5.3.0"
 
-chart.js@3.0.0-beta.4:
-  version "3.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/chart.js/-/chart.js-3.0.0-beta.4.tgz#c0a39b33f3412d84562bfeb605be913f79e6dd2e"
-  integrity sha512-aW5s5gFIZyIiTEZANC+DZKLLcVi5Sp3fo7EKKJau89mzPBOVjg3Rv9VOKmLOWx5zMFuDyBBAMylNrr3MSiO2Wg==
+chart.js@3.0.0-beta.7:
+  version "3.0.0-beta.7"
+  resolved "https://registry.yarnpkg.com/chart.js/-/chart.js-3.0.0-beta.7.tgz#ce11f437b555cc61b52ad24bf9505d08b4e09e6f"
+  integrity sha512-UL0HlWNRBvvzGPoh0WfmsiaLuYdgjLj9PtutfEjL43eJxxDPHWmsqROJT7x81oyF6TVrFs2uR5UEkt0GfhGxxw==
 
 chokidar@^2.1.8:
   version "2.1.8"
