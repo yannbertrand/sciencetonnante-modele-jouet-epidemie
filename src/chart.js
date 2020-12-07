@@ -1,6 +1,6 @@
-import { Chart, LineController, Line, Point, LinearScale, CategoryScale, Tooltip, Legend } from 'chart.js';
+import { Chart, LineController, LineElement, PointElement, LinearScale, CategoryScale, Tooltip, Legend } from 'chart.js';
 
-Chart.register(LineController, Line, Point, LinearScale, CategoryScale, Tooltip, Legend);
+Chart.register(LineController, LineElement, PointElement, LinearScale, CategoryScale, Tooltip, Legend);
 
 let chart
 const createChart = (ctx, { donneesMalades, donneesMorts, donneesRemis, donneesSains }) => {
