@@ -18,7 +18,7 @@
     "snyk": "1.437.0"
   },
   "devDependencies": {
-    "webpack": "5.10.1",
+    "webpack": "5.10.2",
     "webpack-cli": "4.2.0",
     "webpack-dev-server": "3.11.0"
   },
