@@ -15,7 +15,7 @@
     "chart.js": "3.0.0-beta.9",
     "html-webpack-plugin": "4.5.1",
     "math-expression-evaluator": "1.3.7",
-    "snyk": "1.440.1"
+    "snyk": "1.680.0"
   },
   "devDependencies": {
     "webpack": "5.19.0",
