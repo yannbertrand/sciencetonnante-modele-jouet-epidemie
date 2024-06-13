@@ -10,7 +10,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "chart.js": "3.0.0-beta.9",
+    "chart.js": "3.9.1",
     "math-expression-evaluator": "1.3.7"
   },
   "devDependencies": {
